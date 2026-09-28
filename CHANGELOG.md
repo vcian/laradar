@@ -6,10 +6,12 @@ All notable changes to Laradar will be documented in this file.
 ### Added
 
 - Async AI queue, enterprise project support, score improvements, and bug fixes ([5dd2f19](https://github.com/vcian/laradar/commit/5dd2f194c99215345d93aa2f36c389a34ee98372))
+- Parallel AI doc generation, report UI polish, and provider fixes ([08ef0a2](https://github.com/vcian/laradar/commit/08ef0a2c3e1c7dbeeacbb1c8ed8c14a4e0a1eaf3))
 
 ### Documentation
 
 - Update changelog ([f7686cc](https://github.com/vcian/laradar/commit/f7686cc0946d55052c12d5c609ee00efc2d8e173))
+- Update changelog ([4ae1c28](https://github.com/vcian/laradar/commit/4ae1c28013055af79238aa9a8e0c0794bb32cb1b))
 
 ## [1.0.0] - 2026-09-02
 
